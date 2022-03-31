@@ -1,0 +1,35 @@
+
+
+.texto, .ficha {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #423E42;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    color: #9C334E;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    color: #423E42;
+}
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #423E42;
+}
+
+
+h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #423E42;
+}
+
+.corpo {
+    color: red;
+}
