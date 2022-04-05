@@ -6,10 +6,52 @@
     color: #423E42;
 }
 
-h1 {
+.quebra {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #423E42;
+    text-align: center;
+}
+
+
+.foto {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width:100%;
+    height: auto;
+}
+
+.corpo {
+    padding: 10%;
+    justify-content: center;
+    display:block;
+    background-color: #f9f9f9;
+}
+
+.menu {
     font-family: 'Lato', sans-serif;
     font-weight: 800;
+    color: #9C334E; 
+    padding: 50px;
+    justify-content: center;
+    display: flex;
+    align-self: center;
+}
+
+.boxmenu {
+    justify-content: center;
+    display: flex;
+    align-items: center;    
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
     color: #9C334E;
+    justify-content: center;
+    display: flex;
+
 }
 
 h2 {
@@ -30,6 +72,27 @@ h4 {
     color: #423E42;
 }
 
-.corpo {
-    color: red;
-}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    color: #9C334E; 
+    display: flex;
+    justify-content: center;
+  }
