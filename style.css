@@ -20,6 +20,7 @@
     align-items: center;
     width:100%;
     height: auto;
+    padding-top: 20px;
 }
 
 .corpo {
@@ -43,6 +44,7 @@
     justify-content: center;
     display: flex;
     align-items: center;    
+    border-bottom: 20px;
 }
 
 h1 {
@@ -89,7 +91,6 @@ h4 {
   }
   
   .dropdown:hover .dropdown-content {
-    display: block;
     font-family: 'Lato', sans-serif;
     font-weight: 800;
     color: #9C334E; 
