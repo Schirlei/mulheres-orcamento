@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para a disciplina de Programação Web do master e
 
 Embora a análise tenha partido de uma reportagem, os dados não são os mesmos, uma vez que os valores foram todos atualizados. Os dados foram obtidos por meio do [Sistema Integrado de Planejamento e Orçamento (SIOP)](https://www.siop.planejamento.gov.br/modulo/login/index.html#/) do governo federal.
 
-Analisamos o orçamento de dez políticas públicas voltadas para mulheres nos governos Lula, Dilma, Temer e Bolsonaro. O resultado aponta que a representatividade em lugares de poder movimenta as prioridades de governo e reduz desigualdades estruturais. Para saber mais, [clique aqui](https://schirlei.github.io/mulheres-orcamento/). Caso você utilize os dados, não esqueça de citar o projeto.
+Analisamos o orçamento de dez políticas públicas voltadas para mulheres nos governos Lula, Dilma, Temer e Bolsonaro. O resultado aponta que a representatividade em lugares de poder movimenta as prioridades de governo e reduz desigualdades estruturais. Para saber mais, [clique aqui](https://schirlei.github.io/mulheres-orcamento/). Se você fizer uso da análise, não esqueça de citar o projeto.
 
 ### Contato sobre o projeto
 
