@@ -1,6 +1,6 @@
 ## Mulheres no orçamento
 
-Este projeto foi desenvolvido para a disciplina de Programação Web do master em Jornalismo de Dados, Automação e Storytelling do Insper. Nós analisamos os dados levantados pela reportagem “Bolsonaro não usou um terço dos recursos aprovados para políticas para mulheres desde 2019”, publicada em 16 de agosto de 2021 pela Revista AzMina. Em seguida, fizemos a releitura dos dados e uma nova proposta de abordagem. Com as informações estruturadas, desenhamos o protótipo de uma página web usando como recurso a ferramenta Figma. No VS Code, programamos a página html e estilizamos o conteúdo com a linguagem CSS.
+Este projeto foi desenvolvido para a disciplina de Programação Web do master em Jornalismo de Dados, Automação e Storytelling do Insper. Nós analisamos os dados levantados pela reportagem [“Bolsonaro não usou um terço dos recursos aprovados para políticas para mulheres desde 2019”](https://azmina.com.br/reportagens/bolsonaro-nao-usou-um-terco-dos-recursos-aprovados-para-politicas-para-mulheres-desde-2019/), publicada em 16 de agosto de 2021 pela Revista AzMina. Em seguida, fizemos a releitura dos dados e uma nova proposta de abordagem. Com as informações estruturadas, desenhamos o protótipo de uma página web usando como recurso a ferramenta Figma. No VS Code, programamos a página html e estilizamos o conteúdo com a linguagem CSS.
 
 ### Sobre os dados
 
