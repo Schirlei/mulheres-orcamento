@@ -158,18 +158,20 @@ h4 {
   }
   
   .dropdown-content {
+    font-family: 'Lato', sans-serif;
     display: none;
-    position: relative;
+    position: center;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-width: 1px;
+    border-color:#423E42;
     padding: 12px 16px;
     z-index: 1;
   }
   
   .dropdown:hover .dropdown-content {
     font-family: 'Lato', sans-serif;
-    font-weight: 800;
+    font-weight: 500;
     color: #9C334E; 
     display: flex;
     justify-content: center;
